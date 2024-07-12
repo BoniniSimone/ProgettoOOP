@@ -1,0 +1,16 @@
+# ProgettoOOP
+Progetto sviluppato in Java per l'esame di Programmazione ad Oggetti, dedicato alla gestione di esami universitari.
+
+## Descrizione
+Il progetto è un'applicazione grafica sviluppata utilizzando la libreria javax.swing. L'applicazione consente di:
+- Aggiungere esami, sia semplici che composti (esami parziali)
+- Modificare e cancellare esami esistenti
+- Visualizzare dati statistici relativi agli esami
+- Caricare ed esportare i dati degli esami su file
+Questa applicazione offre un'interfaccia intuitiva per gestire e organizzare gli esami universitari in modo efficiente.
+
+Il progetto è gestito utilizzando l'architettura MVC (Model, View, Controller)
+
+## INFORMAZIONI IMPORTANTI
+Assicurasi di avere installato le librerie jcommon e jfreechart, ricordarsi di aggiornare il BuildPath in modo che punti a queste librerie.
+
